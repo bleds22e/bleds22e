@@ -1,11 +1,9 @@
 ---
-title: "bleds22e"
+title: "Ellen K. Bledsoe"
+subtitle: "Assisant Professor of Practice"
 ---
 
-This is a Quarto website.
+I am Assistant Professor of Practice in the [School of Natural Resources and the Environment](https://nature.arizona.edu/) at th University of Arizona. I primarily teach undergraduates in data science with an ecological twist.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This page is a work in progress.
 
-```{r}
-1 + 1
-```
