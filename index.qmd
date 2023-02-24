@@ -1,16 +1,25 @@
 ---
 title: "Ellen K. Bledsoe"
-subtitle: "Assisant Professor of Practice"
+subtitle: "Assistant Professor of Practice"
 
 image: MLP_3637.jpg
 
 about: 
   template: jolla
   image-shape: rounded
-
+  links: 
+    - icon: envelope
+      href: mailto:ebledsoe@arizona.edu
+    - icon: github
+      href: https://github.com/bleds22e
+    - icon: mastodon
+      href: https://ecoevo.social/@bleds22e
+    - icon: twitter
+      href: https://twitter.com/bleds22e
+    - icon: calendar-event
+      href: https://www.calendly.com/ellen_bledsoe/office_hours
 ---
 
 I am Assistant Professor of Practice in the [School of Natural Resources and the Environment](https://nature.arizona.edu/) at th University of Arizona. I primarily teach undergraduates in data science with an ecological twist.
 
 This page is a work in progress.
-
