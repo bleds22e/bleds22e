@@ -2,7 +2,7 @@
 title: "Teaching"
 
 about:
-  template: jolla
+  template: solana
 ---
 
 This page is a work in progress.

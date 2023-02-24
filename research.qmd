@@ -2,14 +2,14 @@
 title: "Research"
 
 about:
-  template: jolla
+  template: solana
   links:
+    - text: CV
+      href: https://drive.google.com/file/d/18mH-Vpx7kCGI3LSHu2gc47mW9yjpck2z/view?usp=sharing
     - text: Google Scholar
       href: https://scholar.google.com/citations?user=PJbyndUAAAAJ&hl=en&authuser=2
     - text: ORCiD
       href: https://orcid.org/0000-0002-3629-7235
-    - text: CV
-      href: https://drive.google.com/file/d/18mH-Vpx7kCGI3LSHu2gc47mW9yjpck2z/view?usp=sharing
 ---
 
 This page is a work in progress.

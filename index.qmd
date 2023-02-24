@@ -1,5 +1,5 @@
 ---
-title: "Ellen K. Bledsoe"
+title: "Ellen Bledsoe"
 subtitle: "Assistant Professor of Practice"
 
 image: MLP_3637.jpg
@@ -9,14 +9,19 @@ about:
   image-shape: rounded
   links: 
     - icon: envelope
+      text: e-mail
       href: mailto:ebledsoe@arizona.edu
     - icon: github
+      text: GitHub
       href: https://github.com/bleds22e
     - icon: mastodon
+      text: Mastodon
       href: https://ecoevo.social/@bleds22e
     - icon: twitter
+      text: Twitter
       href: https://twitter.com/bleds22e
     - icon: calendar-event
+      text: Calendly
       href: https://www.calendly.com/ellen_bledsoe/office_hours
 ---
 
