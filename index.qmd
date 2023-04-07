@@ -5,7 +5,7 @@ subtitle: "Assistant Professor of Practice"
 image: MLP_3637.jpg
 
 about: 
-  template: jolla
+  template: trestles
   image-shape: rounded
   links: 
     - icon: envelope
