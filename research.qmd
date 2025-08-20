@@ -4,13 +4,13 @@ title: "Research"
 about:
   template: solana
   links:
-    - text: CV
-      href: https://drive.google.com/file/d/18mH-Vpx7kCGI3LSHu2gc47mW9yjpck2z/view?usp=sharing
-    - text: Google Scholar
+    - icon: file-earmark-person-fill
+      text: CV
+      href: https://drive.google.com/file/d/1ydpdGbEdnbdiFZAdHkQK37a7Qh1a85yz/view?usp=sharing
+    - text: "{{< fa brands google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?user=PJbyndUAAAAJ&hl=en&authuser=2
-    - text: ORCiD
+    - text: "{{< fa brands orcid >}} ORCID"
       href: https://orcid.org/0000-0002-3629-7235
 ---
 
 This page is a work in progress.
-
