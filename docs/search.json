@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ellen Bledsoe",
     "section": "",
-    "text": "This page is a work in progress."
+    "text": "I’m an Associate Professor of Practice in the School of Natural Resources and the Environment at the University of Arizona. I primarily teach undergraduates in data science with an ecological twist.\nThis page is a work in progress."
   },
   {
     "objectID": "research.html",
@@ -12,12 +12,5 @@
     "title": "Research",
     "section": "",
     "text": "This page is a work in progress."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ellen Bledsoe",
-    "section": "",
-    "text": "I am Assistant Professor of Practice in the School of Natural Resources and the Environment at th University of Arizona. I primarily teach undergraduates in data science with an ecological twist.\nThis page is a work in progress."
   }
 ]
